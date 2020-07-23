@@ -1,5 +1,5 @@
 {
-  "name": "async",
+  "name": "@dynamicaction/async",
   "description": "Higher-order functions and common patterns for asynchronous code",
   "version": "3.2.0",
   "main": "dist/async.js",
@@ -7,10 +7,10 @@
   "homepage": "https://caolan.github.io/async/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/caolan/async.git"
+    "url": "https://github.com/dynamicaction/async.git"
   },
   "bugs": {
-    "url": "https://github.com/caolan/async/issues"
+    "url": "https://github.com/dynamicaction/async/issues"
   },
   "keywords": [
     "async",
